@@ -4,5 +4,4 @@ Type " npm install "  ( Download Front-end Dependencies )
  npm start
 
 2. Run Backend:
- cd backend
  npm run server
